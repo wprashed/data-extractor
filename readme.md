@@ -20,17 +20,12 @@ The **Data Extractor** Chrome extension allows users to extract data from web pa
    - Click on **Load unpacked** and select the folder where you extracted the files.
 4. The Data Extractor extension should now be visible in your list of extensions.
 
-## Usage
+## Example Usage
 
 1. **Open the Extension**: Click the Data Extractor icon in the Chrome toolbar to open the popup.
 2. **Enter a CSS Selector**: In the input field, enter the CSS selector for the data you wish to extract (e.g., `div.inner-col p.wp-block`).
 3. **Extract Data**: Click the **Extract Data** button. The extension will extract the specified data from the current webpage.
 4. **Download CSV**: Once the extraction is complete, a CSV file containing the extracted data will automatically download to your computer.
-
-## Example Usage
-
-- To extract all paragraphs from a webpage, you can enter `p` as the CSS selector.
-- To extract specific elements, inspect the page and use the appropriate selector, such as `h1`, `.class-name`, or `#id`.
 
 ## Limitations
 
