@@ -40,21 +40,3 @@ The **Data Extractor** Chrome extension allows users to extract data from web pa
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Support
-
-If you encounter any issues or have questions, please reach out via the [issue tracker](#) or contact the developer.
-
----
-
-### Notes
-
-- **Customization**: Feel free to modify sections according to your specific needs or additional features.
-- **Formatting**: When you save the README file, ensure it is named `README.md` for Markdown formatting to render correctly on platforms like GitHub or the Chrome Web Store.
-- **Additional Links**: You can add links to an issue tracker, license file, or any documentation that might be useful for users.
-
-This README will help users understand your extension's purpose, installation, and usage effectively. Let me know if you need any further adjustments!
